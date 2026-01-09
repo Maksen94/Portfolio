@@ -6,7 +6,7 @@ Ce site vitrine a été conçu pour présenter mon parcours, mes compétences te
 Le design a été entièrement refait avec une approche **"Dark Data"** : un thème sombre professionnel utilisant des nuances de bleu nuit et de cyan, inspiré des interfaces de développement et de visualisation de données.
 
 ## 🔗 Démo en ligne
-> **(https://maksen94.github.io/Portefolio/)**
+> **(https://maksen94.github.io/Portfolio/)**
 
 ## 🛠 Technologies utilisées
 
